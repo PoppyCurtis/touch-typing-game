@@ -1,0 +1,20 @@
+C:\Users\Alex\source\repos\typinggame\typinggame\bin\Debug\typinggame.exe.config
+C:\Users\Alex\source\repos\typinggame\typinggame\bin\Debug\typinggame.exe
+C:\Users\Alex\source\repos\typinggame\typinggame\bin\Debug\typinggame.pdb
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.Form1.resources
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.Properties.Resources.resources
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.exe
+C:\Users\Alex\source\repos\typinggame\typinggame\obj\Debug\typinggame.pdb
+F:\visual studio projects\typinggame\typinggame\bin\Debug\typinggame.exe.config
+F:\visual studio projects\typinggame\typinggame\bin\Debug\typinggame.exe
+F:\visual studio projects\typinggame\typinggame\bin\Debug\typinggame.pdb
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.csprojAssemblyReference.cache
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.Form1.resources
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.Properties.Resources.resources
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.csproj.GenerateResource.cache
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.csproj.CoreCompileInputs.cache
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.exe
+F:\visual studio projects\typinggame\typinggame\obj\Debug\typinggame.pdb
